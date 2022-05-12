@@ -1,0 +1,1 @@
+window.alert("dont go this place");
